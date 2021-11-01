@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanBody.Brain\HumanBody.Brain.csproj" />
+    <ProjectReference Include="..\HumanBody.Core\HumanBody.Core.csproj" />
+  </ItemGroup>
+
+</Project>
